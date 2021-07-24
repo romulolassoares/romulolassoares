@@ -25,12 +25,6 @@ I really like study and resolve problems. I'm always up for new challenges.
   </table>
 </center>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romulolassoares&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romulolassoares&layout=compact&show_icons=true&theme=dark)
-
-
 Reach me 👇🏼
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/romulo-soares-005b201a5)
