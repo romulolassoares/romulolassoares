@@ -15,6 +15,17 @@ I really like study and resolve problems. I'm always up for new challenges.
 
 
 ### My stats
+
+<center>
+  <table>
+    <tr>
+      <td><img width="400px" src="https://github-readme-stats.vercel.app/api?username=romulolassoares&show_icons=true&theme=dark"/></td>
+      <td><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulolassoares&layout=compact&show_icons=true&theme=dark"/></td>
+    </tr>
+  </table>
+</center>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romulolassoares&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romulolassoares&layout=compact&show_icons=true&theme=dark)
