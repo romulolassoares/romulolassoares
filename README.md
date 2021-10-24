@@ -39,10 +39,10 @@ Hello, my name is Rômulo Soares and I'm
 </br>
 <div align="center">
   <a href="#">
-  <img align="center" width="458px" src="https://github-readme-stats.vercel.app/api?username=romulolassoares&show_icons=true&theme=material-palenight" />
+  <img align="center" width="408px" src="https://github-readme-stats.vercel.app/api?username=romulolassoares&show_icons=true&theme=material-palenight" />
   </a>
   <a href="#">
-    <img align="center" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulolassoares&layout=compact&show_icons=true&theme=material-palenight&hide=php,css&langs_count=4" />
+    <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulolassoares&layout=compact&show_icons=true&theme=material-palenight&hide=php,css&langs_count=4" />
   </a>
 </div>
 
