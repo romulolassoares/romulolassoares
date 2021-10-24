@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-Hello, my name is **Rômulo Soares** and I'm
+Hello, my name is Rômulo Soares and I'm
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236038F7&size=22&lines=a+Student;+and+a+curious+Dev)
 </p>
