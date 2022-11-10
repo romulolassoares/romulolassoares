@@ -15,16 +15,12 @@ Hello, my name is Rômulo Soares and I'm
 
 <p align="left"> 📍 Brazil, Minas Gerais, Juiz de Fora </p>
 <p align="left">  📚 Student of Computer Science at Juiz de Fora Federal University</p>
-<p align="left"> 💻 Focus on Back-End and Blockchain</p> 
 
 ## Currently
-- 🔭 Working with Hyperledger Fabric and data source provenance in a scientific initiation project
-- 🧑‍💻 Learning about Blockchain and Provenance
-
-
+- Learning and researching on digital twins and machine learning
 
 ## 🚀  My skills
-<div align="center">
+<!-- <div align="center">
   <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
   <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
   <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
@@ -34,9 +30,9 @@ Hello, my name is Rômulo Soares and I'm
   <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
   <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
-</div>
+</div> -->
 
-</br>
+<!-- </br> -->
 <div align="center">
   <a href="#">
   <img align="center" width="49.9%" src="https://github-readme-stats.vercel.app/api?username=romulolassoares&show_icons=true&theme=material-palenight" />
