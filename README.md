@@ -15,7 +15,7 @@ Hello, my name is Rômulo Soares and I'm
 
 <p align="left"> 🚩 Brazil, Minas Gerais, Juiz de Fora </p>
 <p align="left"> 📚 Student of Computer Science at Juiz de Fora Federal University</p>
-<p align="left"> <b>Currently</b> learning and researching on digital twins and machine learning</p>
+<p align="left"> <b>Currently</b> learning and researching about digital twins and machine learning</p>
 
 ## My Skills
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
